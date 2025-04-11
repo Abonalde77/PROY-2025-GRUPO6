@@ -36,7 +36,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 🛠️ Tecnologías y herramientas utilizadas
 
 - Lenguaje(s) de programación:
-  - Ej: Python, JavaScript, C++
+  -: Micropython
 - Microcontroladores
   - Raspberry Pi Pico W 2
 - Sensores
