@@ -5,7 +5,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 | Nombre y Apellido | Usuario GitHub | Correo USM               | Rol          |
 | ----------------- | -------------- | ------------------------ | ------------ |
-| Nombre1 Apellido1 | @usuario1      | nombre1.apellido1@usm.cl | 200000000000 |
+| Ángel Bonalde     | Abonalde77     | abonalde@usm.cl          | 202530039-7  |
 | Joaquín Muñoz     | JM20070305     | jmunozle@usm.cl          | 2025300427   |
 | Nombre3 Apellido3 | @usuario3      | nombre3.apellido3@usm.cl | 200000000000 |
 | Nombre4 Apellido4 | @usuario4      | nombre4.apellido4@usm.cl | 200000000000 |
