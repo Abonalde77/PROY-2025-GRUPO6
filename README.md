@@ -14,7 +14,8 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 📝 Descripción breve del proyecto
 
-> *Aquí va una descripción general del proyecto, incluyendo su propósito, contexto dentro del curso y motivación.*
+- El Proyecto consiste en detectar y traducir sonidos fuertes de distintos niveles a patrones de vibraciones receptibles por el usuario con el fin de informar a personas con discapacidad auditiva sobre posibles amenazas en su entorno.
+
 
 ---
 
