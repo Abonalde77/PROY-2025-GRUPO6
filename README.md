@@ -8,7 +8,6 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 | Ángel Bonalde     | Abonalde77     | abonalde@usm.cl          | 202530039-7  |
 | Joaquín Muñoz     | JM20070305     | jmunozle@usm.cl          | 202530042-7  |
 | Mattias Miranda   | Mirandaa06     | mmirandaa@usm.cl         | 202530029-k  |
-| Nombre4 Apellido4 | @usuario4      | nombre4.apellido4@usm.cl | 200000000000 |
 
 ---
 
