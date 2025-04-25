@@ -13,23 +13,24 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 📝 Descripción breve del proyecto
 
-- El Proyecto consiste en detectar y traducir sonidos fuertes de distintos niveles a patrones de vibraciones receptibles por el usuario con el fin de informar a personas con discapacidad auditiva sobre posibles amenazas en su entorno.
-
+- El Proyecto consiste en detectar y transformar sonidos con distinta intensidad a patrones de vibraciones receptibles  por el usuario con el fin de informar a personas con discapacidad auditiva sobre posibles amenazas en su entorno.
 
 ---
 
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - *Describir el objetivo principal del proyecto.*
+  - A traves de un microfono conectado a la raspberry, detectar el sonido y dividirlo en diferentes niveles de intensidad para luego tranformar el sonido a vibraciones por un buzzer el cual vibrara de acuerdo al nivel de sonido detectado.
 - Objetivos específicos:
-  - *Listar objetivos concretos que permitirán alcanzar el objetivo general.*
+  - Conectar un microfono y un buzzer para que funcionen en conjunto
+  - Dividir el sonido recibido por el microfono en diferentes niveles de intensidad
+  - Aplicar patrones de vibracion al buzzer a partir de los niveles de intensidad del paso anterior
 
 ---
 
 ## 🧩 Alcance del proyecto
 
-> *Definir qué aspectos cubre el proyecto y qué queda fuera del alcance (limitaciones).*
+> *Definir qué aspectos cubre el proyecto y qué queda fuera del alcance (limitaciones).* 
 
 ---
 
@@ -37,12 +38,12 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 - Lenguaje(s) de programación:
   -Micropython
-- editor de codigo:
+- Editor de codigo:
   -Visual Studio Code 
 - Microcontrolador
   - Raspberry Pi Pico W 2
-- accesorios:
- -microfono y buzzer 
+- Accesorios:
+  - Microfono y buzzer 
 
 ---
 
