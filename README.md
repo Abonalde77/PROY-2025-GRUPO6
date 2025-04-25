@@ -37,10 +37,10 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 🛠️ Tecnologías y herramientas utilizadas
 
 - Lenguaje(s) de programación:
-  -Micropython
+  - Micropython
 - Editor de codigo:
-  -Visual Studio Code 
-- Microcontrolador
+  - Visual Studio Code 
+- Microcontrolador:
   - Raspberry Pi Pico W 2
 - Accesorios:
   - Microfono y buzzer 
