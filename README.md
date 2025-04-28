@@ -67,7 +67,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
  PRIMERA FASE (INVESTIGACION): se basa en la investigacion de las diferentes herramientas que se utilizaran para la creacion del proyecto, en este caso seria como tal, la investigacion de la misma raspberry pi pico w ademas tambien se investigara el lenguaje de programacion con el que se hara el trabajo que sera "micropython", y por ultimo el entorno de desarrollo integrado en el que se trabajara que sera el programa "thonny".En esta etapa se profundizara acerca de de todo lo que nos servira para poder llevar a cabo el proyecto mediante diferentes recursos como lo son: videos, documentos, manuales, etc.
 
- SEGUNDA FASE (DESARROLLO): Esta segunda fase se concentrara en el desarrolo del proyecto como tal, de modo que en esta fase se desarrollen los codigos de programacion para nuestro proyecto, la implementacion de los complementos para la raspberry pi pico w, en este caso, el buzzer () y el microfono(MAX9814) y las pruebas experimentales que se realizaran para detectar fallas en el proceso. Esta fase sera la de mas duracion durante el tiempo ya que contempla una gran exigencia de tiempo. 
+ SEGUNDA FASE (DESARROLLO): Esta segunda fase se concentrara en el desarrolo del proyecto como tal, de modo que en esta fase se desarrollen los codigos de programacion para nuestro proyecto, la implementacion de los complementos para la raspberry pi pico w, en este caso, el buzzer (pasivo) y el microfono(MAX9814) y las pruebas experimentales que se realizaran para detectar fallas en el proceso. Esta fase sera la de mas duracion durante el tiempo ya que contempla una gran exigencia de tiempo. 
 
 ---
 
