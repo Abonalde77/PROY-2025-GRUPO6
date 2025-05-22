@@ -52,7 +52,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 /PROY-2025-GRUPO6
 │
-├── docs/               # Documentación general y reportes
+├── [docs/](https://github.com/Abonalde77/PROY-2025-GRUPO6/tree/main/Documentación)            
 ├── [src/](https://github.com/Abonalde77/PROY-2025-GRUPO6/tree/main/CodigoFuente)                 
 ├── [test/](https://github.com/Abonalde77/PROY-2025-GRUPO6/tree/main/Pruebas)                     
 └── [README.md](https://github.com/Abonalde77/PROY-2025-GRUPO6/tree/main/README.md)            
