@@ -53,8 +53,8 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 /PROY-2025-GRUPOX
 │
 ├── docs/               # Documentación general y reportes
-├── src/                # Código fuente del proyecto
-├── [tests de codigo](https://github.com/Abonalde77/PROY-2025-GRUPO6/tree/main/Pruebas)                     
+├── [src/](https://github.com/Abonalde77/PROY-2025-GRUPO6/tree/main/CodigoFuente)                 
+├── [test/](https://github.com/Abonalde77/PROY-2025-GRUPO6/tree/main/Pruebas)                     
 └── README.md           # Este archivo
 
 
