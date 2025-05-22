@@ -54,7 +54,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 │
 ├── docs/               # Documentación general y reportes
 ├── src/                # Código fuente del proyecto
-├── [tests de codigo](https://github.com/Abonalde77/PLANTILLA-PROY-2025/tree/main/Pruebas)                     
+├── [tests de codigo](https://github.com/Abonalde77/PROY-2025-GRUPO6/tree/main/Pruebas)                     
 └── README.md           # Este archivo
 
 
