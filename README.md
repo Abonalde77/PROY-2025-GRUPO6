@@ -49,14 +49,14 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 🗂️ Estructura del repositorio
 
-```Pruebas
+
 /PROY-2025-GRUPOX
 │
 ├── docs/               # Documentación general y reportes
 ├── src/                # Código fuente del proyecto
 ├── tests/              # Casos de prueba            
 └── README.md           # Este archivo
-```
+
 
 ---
 
