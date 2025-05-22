@@ -49,12 +49,12 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 🗂️ Estructura del repositorio
 
-```
+
 /PROY-2025-GRUPOX
 │
 ├── docs/               # Documentación general y reportes
 ├── src/                # Código fuente del proyecto
-├── [tests de codigo](https://github.com/Abonalde77/PLANTILLA-PROY-2025/tree/main/test)                     
+├── [tests de codigo](https://github.com/Abonalde77/PLANTILLA-PROY-2025/tree/main/Pruebas)                     
 └── README.md           # Este archivo
 ```
 
