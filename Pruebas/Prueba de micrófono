@@ -1,0 +1,10 @@
+from machine import ADC, Pin
+import time
+
+mic = ADC(Pin(26))  # Pin 26 tiene ADC0
+convertion_factor = 3.3/4096
+while True:
+    valor = mic.read_u16()
+    print("Valor ADC:", valor)
+    time.sleep(0.1)
+
