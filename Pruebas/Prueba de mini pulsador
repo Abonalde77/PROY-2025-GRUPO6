@@ -1,0 +1,16 @@
+from machine import Pin
+import time
+
+# Configura el pin del botón (GPIO15) como entrada con pull-up
+button = Pin(15, Pin.IN, Pin.PULL_UP)
+
+# LED integrado en GPIO25
+led = Pin("LED", Pin.OUT)
+
+while True:
+    if button.value() == 0:  # Botón presionado (pin en LOW)
+        led.value(1)         # Enciende LED
+    else:
+        led.value(0)         # Apaga LED
+
+    time.sleep(0.05)          # Pequeña demora para estabilidad
