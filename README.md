@@ -20,11 +20,11 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - A traves de un microfono conectado a la raspberry, detectar el sonido y dividirlo en diferentes niveles de intensidad para luego tranformar el sonido a vibraciones por un buzzer el cual vibrara de acuerdo al nivel de sonido detectado.
+  - A traves de un microfono conectado a la raspberry, detectar el sonido y dividirlo en diferentes niveles de intensidad para luego tranformar el sonido a vibraciones por un mini motor de vibracion el cual vibrara de acuerdo al nivel de sonido detectado.
 - Objetivos específicos:
-  - Conectar un microfono y un buzzer para que funcionen en conjunto
+  - Conectar un microfono y un mini motor de vibracion para que funcionen en conjunto
   - Dividir el sonido recibido por el microfono en diferentes niveles de intensidad
-  - Aplicar patrones de vibracion al buzzer a partir de los niveles de intensidad del paso anterior
+  - Aplicar patrones de vibracion al motor a partir de los niveles de intensidad del paso anterior
 
 ---
 
@@ -36,14 +36,14 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 🛠️ Tecnologías y herramientas utilizadas
 
-- Lenguaje(s) de programación:
+- Lenguaje de programación:
   - Micropython
 - Editor de codigo:
-  - Visual Studio Code 
+  - Thonny 
 - Microcontrolador:
   - Raspberry Pi Pico W 2
 - Accesorios:
-  - Microfono (MAX9814) y buzzer pasivo 
+  - Microfono (KY-038) y Mini motor de vibracion (PWM Switch DC)
 
 ---
 
@@ -66,7 +66,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
  PRIMERA FASE (INVESTIGACION): se basa en la investigacion de las diferentes herramientas que se utilizaran para la creacion del proyecto, en este caso seria como tal, la investigacion de la misma raspberry pi pico w ademas tambien se investigara el lenguaje de programacion con el que se hara el trabajo que sera "micropython", y por ultimo el entorno de desarrollo integrado en el que se trabajara que sera el programa "thonny".En esta etapa se profundizara acerca de de todo lo que nos servira para poder llevar a cabo el proyecto mediante diferentes recursos como lo son: videos, documentos, manuales, etc.
 
- SEGUNDA FASE (DESARROLLO): Esta segunda fase se concentrara en el desarrolo del proyecto como tal, de modo que en esta fase se desarrollen los codigos de programacion para nuestro proyecto, la implementacion de los complementos para la raspberry pi pico w, en este caso, el buzzer (pasivo) y el microfono(MAX9814) y las pruebas experimentales que se realizaran para detectar fallas en el proceso. Esta fase sera la de mas duracion durante el tiempo ya que contempla una gran exigencia de tiempo. 
+ SEGUNDA FASE (DESARROLLO): Esta segunda fase se concentrara en el desarrolo del proyecto como tal, de modo que en esta fase se desarrollen los codigos de programacion para nuestro proyecto, la implementacion de los complementos para la raspberry pi pico w, en este caso, el mini motor de vibracion (PWM Switch DC) y el microfono (KY-038) y las pruebas experimentales que se realizaran para detectar fallas en el proceso. Esta fase sera la de mas duracion durante el tiempo ya que contempla una gran exigencia de tiempo. 
 
 ---
 
@@ -88,3 +88,4 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 > Consideraciones:
 - Eramos 4 y ahora somos 3, una integrante se fue de la universidad.
 - Buscamos los componentes por muchas tiendas y nos respondian diciendo que pronto llegarian, por lo cual decidimos comprarlas por internet, esto provoco un atraso en el desarrollo del proyecto.
+- El primer microfono que se compro vino defectuoso, por lo cual se tuvo que pedir otro y se perdio tiempo en la espera.
