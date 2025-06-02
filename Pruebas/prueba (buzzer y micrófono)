@@ -1,0 +1,31 @@
+import time
+
+# Configurar el pin del sensor de sonido (ADC0 en GP26)
+sound_sensor = ADC(Pin(26))
+
+# Configurar el buzzer (salida digital)
+buzzer = Pin(15, Pin.OUT)
+
+# Umbral de detección de sonido fuerte (ajustable)
+THRESHOLD = 30000  # Puede ir de 0 a 65535 (por ADC de 16 bits)
+
+# Tiempo que el buzzer vibra (en segundos)
+buzz_duration = 0.2
+
+print("Sistema de detección de sonido iniciado...")
+
+while True:
+    # Leer el valor del sensor de sonido
+    sound_level = sound_sensor.read_u16()
+
+    # Debug (puedes descomentar para ver en el REPL)
+    # print("Nivel de sonido:", sound_level)
+
+    if sound_level > THRESHOLD:
+        print("¡Sonido fuerte detectado!")
+        buzzer.on()
+        time.sleep(buzz_duration)
+        buzzer.off()
+
+    # Espera breve antes de siguiente lectura
+    time.sleep(0.05)
