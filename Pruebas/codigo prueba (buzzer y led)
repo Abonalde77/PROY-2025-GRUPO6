@@ -1,0 +1,22 @@
+from machine import Pin, PWM
+import time
+
+# Configuración del buzzer y el LED integrado
+buzzer = Pin(18, Pin.OUT)  # Buzzer pasivo en el pin GPIO 18
+led = Pin(25, Pin.OUT)     # LED integrado en el pin GPIO 25
+
+# Crear objeto PWM para el buzzer pasivo
+buzzer_pwm = PWM(buzzer)
+buzzer_pwm.freq(1000)  # Establecer la frecuencia a 1000 Hz
+buzzer_pwm.duty_u16(32768)  # 50% de ciclo de trabajo (sonido medio)
+
+# Hacer sonar el buzzer durante 5 segundos y encender el LED
+led.on()  # Encender el LED integrado
+time.sleep(5)  # Sonar el buzzer durante 5 segundos
+
+# Apagar el buzzer y el LED
+buzzer_pwm.duty_u16(0)  # Apagar el buzzer
+led.off()  # Apagar el LED
+
+# Fin del programa
+print("Buzzer apagado y LED apagado")
