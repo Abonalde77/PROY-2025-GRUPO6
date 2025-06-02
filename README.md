@@ -80,7 +80,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 📚 Bibliografía
 
 [Enlace](https://google.com)
-
+[Enlace](https://www.youtube.com/watch?v=hjuNL5xqxZg)
 ---
 
 ## 📌 Notas adicionales
