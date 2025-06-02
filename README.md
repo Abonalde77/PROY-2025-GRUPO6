@@ -79,8 +79,9 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 📚 Bibliografía
 
-[Enlace](https://google.com)
-[Enlace](https://www.youtube.com/watch?v=hjuNL5xqxZg)
+[Micrófono-Led](https://www.youtube.com/watch?v=hjuNL5xqxZg)
+[Pulsadores](https://www.youtube.com/watch?v=5T07X1IW9MU)
+[Micrófono](https://www.youtube.com/watch?v=dQW4oFJt9c8)
 ---
 
 ## 📌 Notas adicionales
