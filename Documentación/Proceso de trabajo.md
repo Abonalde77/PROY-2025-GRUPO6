@@ -31,8 +31,6 @@ Dentro de esta semana llegaron nuestros componentes los cuales requerimos para n
 Mientras estábamos probando uno de nuestros motores, uno dejó de funcionar tras usarlo por mucho tiempo, por lo cual a largo plazo nuestros motores no iban a servir, dentro de la semana trataremos de encontrar un reemplazo que funcione mejor y tenga una marca más confiable.
 
 Semana 2 (12 - 18)
-
-
 Para el dia viernes comenzaba la semana de receso, los integrantes del grupo se fueron a sus hogares por lo cual nos dividimos los trabajos del proyecto
 
 Semana 3 (19 - 25)
