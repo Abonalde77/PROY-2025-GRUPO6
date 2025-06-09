@@ -62,14 +62,16 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
 
 ##  <ins>Metodología</ins>
 
-# La metodologia del trabajo para desarrollar el proyecto consistira de tres fases las cuales seran explicadas a continuacion:
+# La metodología del trabajo para desarrollar el proyecto consistirá de tres fases, las cuales serán explicadas a continuación:
 
- PRIMERA FASE (INVESTIGACION): se basa en la investigacion de las diferentes herramientas que se utilizaran para la creacion del proyecto, en este caso seria como tal, la investigacion de la misma raspberry pi pico w ademas tambien se investigara el lenguaje de programacion con el que se hara el trabajo que sera "micropython", y por ultimo el entorno de desarrollo integrado en el que se trabajara que sera el programa "thonny".En esta etapa se profundizara acerca de de todo lo que nos servira para poder llevar a cabo el proyecto mediante diferentes recursos como lo son: videos, documentos, manuales, etc.
+PRIMERA FASE (INVESTIGACIÓN):
+Se basa en la investigación de las diferentes herramientas que se utilizarán para la creación del proyecto. En este caso, sería como tal la investigación de la misma Raspberry Pi Pico W. Además, también se investigará el lenguaje de programación con el que se hará el trabajo, que será "MicroPython", y por último, el entorno de desarrollo integrado en el que se trabajará, que será el programa "Thonny". En esta etapa se profundizará acerca de todo lo que nos servirá para poder llevar a cabo el proyecto mediante diferentes recursos como lo son: videos, documentos, manuales, etc.
 
- SEGUNDA FASE (DESARROLLO): Esta segunda fase se concentrara en el desarrolo del proyecto como tal, de modo que en esta fase se desarrollen los codigos de programacion para nuestro proyecto, la implementacion de los complementos para la raspberry pi pico w, en este caso, el motor de vibracion (PWM Switch DC) y el microfono (KY-038) y las pruebas experimentales que se realizaran para detectar fallas en el proceso. Esta fase sera la de mas duracion durante el tiempo ya que contempla una gran exigencia de tiempo. 
+SEGUNDA FASE (DESARROLLO):
+Esta segunda fase se concentrará en el desarrollo del proyecto como tal, de modo que en esta fase se desarrollen los códigos de programación para nuestro proyecto, la implementación de los complementos para la Raspberry Pi Pico W, en este caso, el motor de vibración (PWM Switch DC) y el micrófono (KY-038), y las pruebas experimentales que se realizarán para detectar fallas en el proceso. Esta fase será la de más duración durante el tiempo, ya que contempla una gran exigencia de tiempo.
 
- TERCERA FASE: (PRESENTACIÓN): Esta es la última fase del proyecto, consistirá en revisar los aspectos finales del dispositivo y dejarlos listos para su demostración final, acompañada de una presentación del proceso del trabajo.
-
+TERCERA FASE (PRESENTACIÓN):
+Esta es la última fase del proyecto; consistirá en revisar los aspectos finales del dispositivo y dejarlos listos para su demostración final, acompañada de una presentación del proceso del trabajo.
 ---
 
 ## 📅 Cronograma de trabajo
