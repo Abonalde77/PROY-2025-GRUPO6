@@ -30,7 +30,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 🧩 Alcance del proyecto
 
-> Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido, ya que para lograr nuestro objetivo vamos a dividir la intensidad del sonido en distintos niveles para hacer mas practica la deteccion del sonido, provocando que no podamos detectar cada tipo de sonido, dejandolos en ciertos rangos de intensidad.
+Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido, ya que para lograr nuestro objetivo vamos a dividir la intensidad del sonido en distintos niveles para hacer mas practica la deteccion del sonido, provocando que no podamos detectar cada tipo de sonido, dejandolos en ciertos rangos de intensidad.
 
 ---
 
