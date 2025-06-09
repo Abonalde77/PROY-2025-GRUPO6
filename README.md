@@ -91,7 +91,7 @@ Esta es la última fase del proyecto; consistirá en revisar los aspectos finale
 
 ## 📌 Notas adicionales
 
-> Consideraciones:
+# <ins>Consideraciones:</ins>
 - Eramos 4 y ahora somos 3, una integrante se fue de la universidad.
 - Buscamos los componentes por muchas tiendas y nos respondian diciendo que pronto llegarian, por lo cual decidimos comprarlas por internet, esto provoco un atraso en el desarrollo del proyecto.
 - El primer microfono que se compro vino defectuoso, por lo cual se tuvo que pedir otro y se perdio tiempo en la espera.
