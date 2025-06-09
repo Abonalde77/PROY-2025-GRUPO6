@@ -68,6 +68,8 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
 
  SEGUNDA FASE (DESARROLLO): Esta segunda fase se concentrara en el desarrolo del proyecto como tal, de modo que en esta fase se desarrollen los codigos de programacion para nuestro proyecto, la implementacion de los complementos para la raspberry pi pico w, en este caso, el motor de vibracion (PWM Switch DC) y el microfono (KY-038) y las pruebas experimentales que se realizaran para detectar fallas en el proceso. Esta fase sera la de mas duracion durante el tiempo ya que contempla una gran exigencia de tiempo. 
 
+ TERCERA FASE: (PRESENTACIÓN): Esta es la última fase del proyecto, consistirá en revisar los aspectos finales del dispositivo y dejarlos listos para su demostración final, acompañada de una presentación del proceso del trabajo.
+
 ---
 
 ## 📅 Cronograma de trabajo
