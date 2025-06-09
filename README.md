@@ -60,7 +60,7 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
 
 ---
 
-##  Metodología
+##  <ins>Metodología</ins>
 
 # La metodologia del trabajo para desarrollar el proyecto consistira de tres fases las cuales seran explicadas a continuacion:
 
