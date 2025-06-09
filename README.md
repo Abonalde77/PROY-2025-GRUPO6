@@ -62,7 +62,7 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
 
 ##  <ins>Metodología</ins>
 
-# La metodología del trabajo para desarrollar el proyecto consistirá de tres fases, las cuales serán explicadas a continuación:
+ **La metodología del trabajo para desarrollar el proyecto consistirá de tres fases, las cuales serán explicadas a continuación:**
 
 PRIMERA FASE (INVESTIGACIÓN):
 Se basa en la investigación de las diferentes herramientas que se utilizarán para la creación del proyecto. En este caso, sería como tal la investigación de la misma Raspberry Pi Pico W. Además, también se investigará el lenguaje de programación con el que se hará el trabajo, que será "MicroPython", y por último, el entorno de desarrollo integrado en el que se trabajará, que será el programa "Thonny". En esta etapa se profundizará acerca de todo lo que nos servirá para poder llevar a cabo el proyecto mediante diferentes recursos como lo son: videos, documentos, manuales, etc.
