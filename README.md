@@ -92,7 +92,7 @@ Esta es la última fase del proyecto; consistirá en revisar los aspectos finale
 ## 📌 Notas adicionales
 
 # <ins>Consideraciones:</ins>
-- Eramos 4 y ahora somos 3, una integrante se fue de la universidad.
+- Eramos 4 miembros pero una integrante se fue de la universidad. Por lo que cayó mas trabajo en el resto
 - Buscamos los componentes por muchas tiendas y nos respondian diciendo que pronto llegarian, por lo cual decidimos comprarlas por internet, esto provoco un atraso en el desarrollo del proyecto.
 - El primer microfono que se compro vino defectuoso, por lo cual se tuvo que pedir otro y se perdio tiempo en la espera.
-- Tras el cambio de micrófono, este seguía careciendo de la calidad suficiente para realizar detecciones precisas del nivel de sonido, por lo que la capacidad del proyecto se vio limitada.
+- Tras el cambio de micrófono, este seguía careciendo de la calidad suficiente para realizar detecciones precisas del nivel de sonido, por lo que la capacidad del proyecto se vio limitada. Aún asi se logró parcialmente el objetivo.
