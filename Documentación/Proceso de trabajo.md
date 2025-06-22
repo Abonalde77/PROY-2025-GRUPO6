@@ -49,4 +49,10 @@ Vamos a prestar nuestro proyecto para que se presente en el stand de telemática
 ## JUNIO:
 En este mes hubo menos tiempo y trabajo que desarrollar, por lo que solo afinamos detalles:
 
--
+-Se terminó de calibrar el proyecto
+
+-Tras calibrarlo, encontramos bastante limitadas las capacidades de detección del micrófono. Observamos que este catalogaba al mismo nivel sonidos como el canto de un pájaro con el ruido de un auto o un cristal rompiéndose, por lo que no había una forma factible de distinguir de forma confiable los niveles reales de cada sonido.
+
+-Concluimos en que por las limitaciones del microfono, no podiamos separar en intervalos precisos el sonido por lo que cumplirá su objetivo pero solo en forma parcial, separando sonidos fuertes de los debiles.
+
+
