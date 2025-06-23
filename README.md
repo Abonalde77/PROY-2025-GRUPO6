@@ -39,7 +39,8 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
 - Lenguaje de programación:
   - Micropython
 - Editor de codigo:
-  - Thonny IDE
+  - Thonny IDE (principal)
+  - visual studio code (secundario)
 - Microcontrolador:
   - Raspberry Pi Pico W 2
 - Accesorios:
@@ -114,12 +115,14 @@ Esta es la última fase del proyecto; consistirá en revisar los aspectos finale
 
 -[Micrófono](https://www.youtube.com/watch?v=dQW4oFJt9c8)
 
+Uso de inteligencia artificial (chatgpt, google gemini, perplexity).
+
 ---
 
 ## 📌 Notas adicionales
 
 # <ins>Consideraciones:</ins>
-- Eramos 4 miembros pero una integrante se fue de la universidad. Por lo que cayó mas trabajo en el resto
-- Buscamos los componentes por muchas tiendas y nos respondian diciendo que pronto llegarian, por lo cual decidimos comprarlas por internet, esto provoco un atraso en el desarrollo del proyecto.
+- Eramos 4 miembros pero una integrante se fue de la universidad en el transcurso del trabajo, por lo cual recayo más trabajo en el resto.
+- Buscamos los componentes por muchas tiendas y nos respondian diciendo que pronto llegarian o que no los tenian en su tienda, debido a esto decidimos comprarlas por internet, esto provoco un atraso en el desarrollo del proyecto.
 - El primer microfono que se compro vino defectuoso, por lo cual se tuvo que pedir otro y se perdio tiempo en la espera.
 - Tras el cambio de micrófono, este seguía careciendo de la calidad suficiente para realizar detecciones precisas del nivel de sonido, por lo que la capacidad del proyecto se vio limitada. Aún asi se logró parcialmente el objetivo.
