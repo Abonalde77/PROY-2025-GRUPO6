@@ -122,12 +122,17 @@ Uso de inteligencia artificial (chatgpt, google gemini, perplexity).
 ## 📌 Notas adicionales
 
 # Posibles mejoras:</ins> 
-una vez terminado este proyecto pudimos concluir mejoras respecto a este, las cuales son las siguientes:
--1 cambiar de microfono para obtener mejores resultados y poder hacer funcionar el codigo de los parametros.
--2 incorporar una bateria al proyecto para que no dependa de la energia del computador.
--3 añadir un led para identificar la funcionabilidad del proyecto.
--4 añadir una pantalla para mostrar los sonidos a nivel visual.
--5 añadir sonidos en especifico y que asi sea mucho mas especifico cada sonido y los dicrimine por ello.
+Una vez terminado este proyecto pudimos concluir mejoras respecto a este, las cuales son las siguientes:
+
+-Cambiar de microfono para obtener mejores resultados y poder hacer funcionar el codigo de los parametros.
+
+-Incorporar una bateria al proyecto para que no dependa de la energia del computador.
+
+-Añadir un led para identificar la funcionabilidad del proyecto.
+
+-Añadir una pantalla para mostrar los sonidos a nivel visual.
+
+-Añadir sonidos en especifico y que asi sea mucho mas especifico cada sonido y los dicrimine por ello.
 
 
 
