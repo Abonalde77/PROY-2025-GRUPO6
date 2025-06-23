@@ -1,1 +1,34 @@
-//Copiar aqui el codigo
+from machine import Pin, PWM, ADC
+import time
+
+sensor_analogico = ADC(Pin(26))
+motor = PWM(Pin(16))
+motor.freq(1000)
+
+UMBRAL_MAXIMO = 65000
+TIEMPO_SOSTENIDO = 0.5
+
+def vibrar(tiempo_segundos, intensidad=50000):
+    motor.duty_u16(intensidad)
+    time.sleep(tiempo_segundos)
+    motor.duty_u16(0)
+
+print("Calibrando sensor, por favor espera...")
+time.sleep(3)
+
+print("Esperando máximo volumen...")
+
+while True:
+    valor = sensor_analogico.read_u16()
+    if valor >= UMBRAL_MAXIMO:
+        tiempo_inicio = time.ticks_ms()
+        while time.ticks_diff(time.ticks_ms(), tiempo_inicio) < TIEMPO_SOSTENIDO * 1000:
+            if sensor_analogico.read_u16() < UMBRAL_MAXIMO:
+                break
+            time.sleep(0.01)
+        else:
+            print("Volumen máximo sostenido detectado! Activando motor...")
+            vibrar(3)
+            while sensor_analogico.read_u16() >= UMBRAL_MAXIMO:
+                time.sleep(0.01)
+    time.sleep(0.01)
