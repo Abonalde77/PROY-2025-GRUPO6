@@ -39,7 +39,7 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
 - Lenguaje de programación:
   - Micropython
 - Editor de codigo:
-  - Thonny 
+  - Thonny IDE
 - Microcontrolador:
   - Raspberry Pi Pico W 2
 - Accesorios:
@@ -47,14 +47,21 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
 
 ---
 
-## 📜Instrucciones de uso
+## 📜Instrucciones de uso:
 
-- Lenguaje de programación:
-  - Micropython
-- Editor de codigo:
-  - Thonny 
-- Microcontrolador:
-  - Raspberry Pi Pico W 2
+-Conectar la Raspberry Pi Pico al computador con el cable USB.
+
+-Abrir Thonny IDE o cualquier otro entono de programación compatible con Micropython.
+
+-Asegúrate de que la Raspberry tenga el firmware de MicroPython cargado.
+
+-Para cargar el código en la Raspberry Pi Pico:
+  Pegar el código en Thonny.
+  Guardar el archivo como main.py en la Raspberry.
+
+-Una vez cargado el código y reiniciada la placa, el programa comenzará a ejecutarse automáticamente. Si se hizo correctamente, el dispositivo vibrará una vez.
+
+-Para armar el dispositivo seguir el siguiente diagrama:
 
  # Diagrama de conexión:
  
