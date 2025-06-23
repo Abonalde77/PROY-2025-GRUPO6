@@ -47,7 +47,7 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
 
 ---
 
-## 🛠️ Tecnologías y herramientas utilizadas
+## 📜Instrucciones de uso
 
 - Lenguaje de programación:
   - Micropython
