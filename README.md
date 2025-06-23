@@ -51,7 +51,7 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
 
 -Conectar la Raspberry Pi Pico al computador con el cable USB.
 
--Abrir Thonny IDE o cualquier otro entono de programación compatible con Micropython.
+-Abrir Thonny IDE o cualquier otro entorno de programación compatible con Micropython.
 
 -Asegúrate de que la Raspberry tenga el firmware de MicroPython cargado.
 
