@@ -108,9 +108,12 @@ Esta es la última fase del proyecto; consistirá en revisar los aspectos finale
 
 ## 📚 Bibliografía
 
-[Micrófono-Led](https://www.youtube.com/watch?v=hjuNL5xqxZg)
-[Pulsadores](https://www.youtube.com/watch?v=5T07X1IW9MU)
-[Micrófono](https://www.youtube.com/watch?v=dQW4oFJt9c8)
+-[Micrófono-Led](https://www.youtube.com/watch?v=hjuNL5xqxZg)
+
+-[Pulsadores](https://www.youtube.com/watch?v=5T07X1IW9MU)
+
+-[Micrófono](https://www.youtube.com/watch?v=dQW4oFJt9c8)
+
 ---
 
 ## 📌 Notas adicionales
