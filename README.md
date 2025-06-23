@@ -132,7 +132,7 @@ Una vez terminado este proyecto pudimos concluir mejoras respecto a este, las cu
 
 -Añadir una pantalla para mostrar los sonidos a nivel visual.
 
--Añadir sonidos en especifico y que asi sea mucho mas especifico cada sonido y los dicrimine por ello.
+-Añadir sonidos en especifico y que asi sea mucho mas especifico cada sonido y los discrimine por ello.
 
 
 
