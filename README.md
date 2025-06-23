@@ -47,6 +47,19 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
 
 ---
 
+## 🛠️ Tecnologías y herramientas utilizadas
+
+- Lenguaje de programación:
+  - Micropython
+- Editor de codigo:
+  - Thonny 
+- Microcontrolador:
+  - Raspberry Pi Pico W 2
+- Accesorios:
+  - Microfono (KY-038) y Motor de vibracion (PWM Switch DC)
+
+---
+
 ## 🗂️ Estructura del repositorio
 
 
