@@ -40,7 +40,7 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
   - Micropython
 - Editor de codigo:
   - Thonny IDE (principal)
-  - visual studio code (secundario)
+  - Visual studio code (secundario)
 - Microcontrolador:
   - Raspberry Pi Pico W 2
 - Accesorios:
