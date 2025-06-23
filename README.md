@@ -141,3 +141,9 @@ Una vez terminado este proyecto pudimos concluir mejoras respecto a este, las cu
 - Buscamos los componentes por muchas tiendas y nos respondian diciendo que pronto llegarian o que no los tenian en su tienda, debido a esto decidimos comprarlas por internet, esto provoco un atraso en el desarrollo del proyecto.
 - El primer microfono que se compro vino defectuoso, por lo cual se tuvo que pedir otro y se perdio tiempo en la espera.
 - Tras el cambio de micrófono, este seguía careciendo de la calidad suficiente para realizar detecciones precisas del nivel de sonido, por lo que la capacidad del proyecto se vio limitada. Aún asi se logró parcialmente el objetivo.
+
+---
+
+## 🎥Video explicativo:
+
+-[Enlace a Youtube](https://youtu.be/XfxvEON_z7c)
