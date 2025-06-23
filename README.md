@@ -20,7 +20,7 @@ Repositorio del grupo 6 para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - A traves de un microfono conectado a la raspberry, detectar el sonido y dividirlo en diferentes niveles de intensidad para luego tranformar el sonido a vibraciones con un motor de vibracion el cual vibrara de acuerdo al nivel de sonido detectado.
+  - A traves de un microfono conectado a la raspberry pi pico w, detectar el sonido y dividirlo en diferentes niveles de intensidad para luego tranformar el sonido a vibraciones con un motor de vibracion el cual vibrara de acuerdo al nivel de sonido detectado.
 - Objetivos específicos:
   - Conectar un microfono y un motor de vibracion para que funcionen en conjunto.
   - Dividir el sonido recibido por el microfono en diferentes niveles de intensidad.
