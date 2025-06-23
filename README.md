@@ -1,4 +1,4 @@
-# PROY-2025-GRUPO6
+# PROY-2025-GRUPO6: VibeAlert
 Repositorio del grupo 6 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 👥 Integrantes del grupo
