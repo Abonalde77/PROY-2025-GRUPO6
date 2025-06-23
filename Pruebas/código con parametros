@@ -1,0 +1,86 @@
+# Importar las librerías necesarias de MicroPython
+from machine import Pin, ADC, PWM
+import time
+
+# --- 1. Configuración de Pines ---
+MIC_PIN = 26
+BUZZER_PIN = 16
+
+# Inicializar los componentes
+mic = ADC(Pin(MIC_PIN))
+buzzer = PWM(Pin(BUZZER_PIN))
+
+# --- 2. Umbrales Calibrados (Basados en Simulación) ---
+# Estos valores son un EJEMPLO LÓGICO. ¡AJÚSTALOS CON TUS PROPIAS MEDICIONES!
+#
+# Línea base de silencio asumida: ~25000
+
+# UMBRAL_FUERTE: Corresponde al inicio del riesgo auditivo (~85 dB).
+# En nuestra simulación, este nivel se alcanzó con una lectura del sensor de 45000.
+UMBRAL_FUERTE = 45000
+
+# UMBRAL_SUPER_FUERTE: Corresponde a un sonido muy molesto y peligroso (~100 dB).
+# En nuestra simulación, este nivel se alcanzó con una lectura de 55000.
+UMBRAL_SUPER_FUERTE = 55000
+
+# UMBRAL_EXTREMADAMENTE_FUERTE: Corresponde a un sonido cercano al umbral del dolor (~115 dB+).
+# En nuestra simulación, este nivel se alcanzó con una lectura de 62000.
+UMBRAL_EXTREMADAMENTE_FUERTE = 62000
+
+
+# --- 3. Funciones para controlar la Vibración ---
+
+def detener_vibracion():
+    """Apaga el buzzer completamente."""
+    buzzer.duty_u16(0)
+
+def vibrar_fuerte():
+    """Vibración constante para indicar un nivel de riesgo."""
+    buzzer.freq(150) 
+    buzzer.duty_u16(32768) # ~50% de intensidad
+
+def vibrar_super_fuerte():
+    """Vibración intermitente y rápida para alertar de peligro."""
+    buzzer.freq(250)
+    buzzer.duty_u16(52428) # ~80% de intensidad
+    time.sleep(0.1)
+    buzzer.duty_u16(0)
+    time.sleep(0.05)
+
+def vibrar_extremadamente_fuerte():
+    """Vibración muy intensa y continua para una alarma crítica."""
+    buzzer.freq(350)
+    buzzer.duty_u16(65535) # 100% de intensidad
+
+# --- 4. Bucle Principal ---
+print("Sistema de detección de sonido iniciado.")
+print(f"Umbral Fuerte: >{UMBRAL_FUERTE}")
+print(f"Umbral Súper Fuerte: >{UMBRAL_SUPER_FUERTE}")
+print(f"Umbral Extremadamente Fuerte: >{UMBRAL_EXTREMADAMENTE_FUERTE}")
+print("¡Listo! Escuchando...")
+
+while True:
+    valor_sonido = mic.read_u16()
+    
+    # Descomenta la siguiente línea para ver la lectura en tiempo real y calibrar
+    # print(f"Valor de sonido: {valor_sonido}")
+    
+    if valor_sonido > UMBRAL_EXTREMADAMENTE_FUERTE:
+        print("¡NIVEL EXTREMADAMENTE FUERTE DETECTADO!")
+        vibrar_extremadamente_fuerte()
+        
+    elif valor_sonido > UMBRAL_SUPER_FUERTE:
+        print("¡Nivel súper fuerte detectado!")
+        vibrar_super_fuerte()
+        
+    elif valor_sonido > UMBRAL_FUERTE:
+        print("Nivel fuerte detectado.")
+        vibrar_fuerte()
+        
+    else:
+        detener_vibracion()
+        # Si quieres ver el valor en silencio, descomenta la siguiente línea
+        # y comenta la primera línea de print dentro del bucle.
+        # print(f"Nivel de sonido seguro: {valor_sonido}")
+        
+    time.sleep(0.05)
