@@ -121,6 +121,13 @@ Uso de inteligencia artificial (chatgpt, google gemini, perplexity).
 
 ## 📌 Notas adicionales
 
+## Posibles mejoras 
+una vez terminado este proyecto pudimos concluir mejoras respecto a este, las cuales son las siguientes:
+1- cambiar de microfono para obtener mejores resultados y poder hacer funcionar el codigo de los parametros.
+2- incorporar una bateria al proyecto para que no dependa de la energia del computador.
+3- añadir un led para identificar la funcionabilidad del proyecto.
+
+
 # <ins>Consideraciones:</ins>
 - Eramos 4 miembros pero una integrante se fue de la universidad en el transcurso del trabajo, por lo cual recayo más trabajo en el resto.
 - Buscamos los componentes por muchas tiendas y nos respondian diciendo que pronto llegarian o que no los tenian en su tienda, debido a esto decidimos comprarlas por internet, esto provoco un atraso en el desarrollo del proyecto.
