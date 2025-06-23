@@ -11,7 +11,7 @@ Repositorio del grupo 6 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ---
 
-## 📝 Descripción breve del proyecto
+## 📝 Descripción breve del VibeAlert
 
 - El Proyecto consiste en detectar y transformar sonidos con distinta intensidad a patrones de vibraciones receptibles  por el usuario con el fin de informar a personas con discapacidad auditiva sobre posibles amenazas en su entorno.
 
