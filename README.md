@@ -57,7 +57,7 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
   - Raspberry Pi Pico W 2
 - Accesorios:
   - Microfono (KY-038) y Motor de vibracion (PWM Switch DC)
-
+![Image](https://github.com/user-attachments/assets/085717fd-51fc-4301-b63a-51fa1488ac6c)
 ---
 
 ## 🗂️ Estructura del repositorio
