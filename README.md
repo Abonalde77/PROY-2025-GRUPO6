@@ -62,13 +62,13 @@ Lo que se escapa de nuestras manos es el no poder distingir cada tipo de sonido,
   
 -Una vez cargado el código y reiniciada la placa, el programa comenzará a ejecutarse automáticamente. Si se hizo correctamente, el dispositivo vibrará una vez.
 
--Para armar el dispositivo seguir el siguiente diagrama:
+Para armar el dispositivo seguir el siguiente diagrama:
 
  # Diagrama de conexión:
  
 ![Image](https://github.com/user-attachments/assets/085717fd-51fc-4301-b63a-51fa1488ac6c)
 
-Observaciones: El microfono viene con un potenciometro (el cuadrado celeste con una cruz) el cual permite ajustar el umbral de sensibilidad del micrófono, esto ayuda a que el micrófono pueda percibir sonidos de mejor forma en diferentes situaciones, por lo cual dependiendo de la situación se puede ajustar a gusto. Si el microfono se le ajusta con la maxima sensibilidad, este detectara sonidos grandes y pequeños en un area grande, mientras que si se le ajusta con la sensibilidad minima, solo detectara ruidos muy fuertes en un area pequeña.
+Observaciones: El microfono viene con un potenciometro (el cuadrado celeste con una cruz) el cual permite ajustar el umbral de sensibilidad del micrófono, esto ayuda a que el micrófono pueda percibir sonidos de mejor forma en diferentes situaciones, por lo cual dependiendo de la situación se puede ajustar a gusto. Si el microfono se le ajusta con la maxima sensibilidad, este detectara sonidos grandes y pequeños en un area grande, mientras que si se le ajusta con la sensibilidad minima, solo detectara ruidos muy fuertes en un area pequeña. El ajuste de sensibilidad lo dejaremos en un punto medio, pero se puede calibrar rotando la cruz en sentido horario para disminuir su sensibilidad y en sentido antihorario para aumentarla.
 
 ---
 
